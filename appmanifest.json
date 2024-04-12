@@ -1,7 +1,7 @@
 {
-	"name": "CrosswordQuest",
-	"short_name": "CrosswordQuest",
-	"description": "",
+	"name": "Crossword Quest Online Game by Khataralap",
+	"short_name": "Crossword Khataralap",
+	"description": "Crossword Quest Online Game by Khataralap",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
